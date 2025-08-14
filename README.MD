@@ -1,4 +1,4 @@
-# ✦ Installation av Virtuella Miljöer (Python) ✦
+# ✦ Installation av Virtuella Miljöer och Shellkommandon (Python) ✦
 
 När du arbetar med virtuella miljöer i Python skiljer sig kommandona beroende på operativsystem och terminal (shell), främst på grund av hur aktivering av miljön och sökvägen till `.venv/bin/` eller `.venv/Scripts/` hanteras.
 
