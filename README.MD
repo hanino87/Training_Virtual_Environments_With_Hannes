@@ -39,7 +39,7 @@ uname -a
 
 ```
 
-## 🔹 3. Windows (Git Bash/Zsh i t.ex. VS Code utan WSL )
+## 🔹 3. Windows (Git Bash,Bash /Zsh i t.ex. VS Code utan WSL )
 
 ```Shell
 # Ta bort eventuell gammal miljö
