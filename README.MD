@@ -129,6 +129,10 @@ pip freeze
 
 pip freeze > requirements.txt
 
+# Installera beroenden
+
+pip install -r requirements.txt
+
 ```
 
 ## 🔹 7. Kolla om du kan använda Python eller Python 3 
