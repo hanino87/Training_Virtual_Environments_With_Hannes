@@ -48,7 +48,7 @@ rm -rf .venv
 # Skapa ny virtuell miljö 
 python -m venv .venv
 
-# Aktivera miljön 
+# OBS! Följande kommando fungerar INTE i Git Bash/Zsh på Windows rekommenderas byta till Powershell eller CMD terminal om du ska aktivera din virtuella miljö:
 source .venv/Scripts/activate
 
 # Uppgradera pip
